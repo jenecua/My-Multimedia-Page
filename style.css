@@ -1,0 +1,18 @@
+body {
+    font: italic 32px Georgia;
+    background-color: rgb(250, 173, 248);
+    color: black;
+}
+div {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+}
+h1 {
+    font: bold italic 56px Verdana, Geneva, Tahoma, sans-serif;
+    border: 4px dotted white;
+    background-color: rgb(225, 64, 150);
+    color: white;
+}
